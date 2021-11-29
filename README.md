@@ -6,4 +6,4 @@
 - 👋 Hi, I’m @metaword
 - 👀 I’m interested in java bigdata
 - 🌱 I’m currently learning Hadoop/Hive/Spark/Flink
-- 📫 To know more[email](mailto:atbcoder@gmail.com)
+- 📫 To know more [email](mailto:atbcoder@gmail.com)
